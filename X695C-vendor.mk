@@ -48,10 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X695C/proprietary/lib64/vendor.mediatek.hardware.pq@2.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.mediatek.hardware.pq@2.1.so \
     vendor/infinix/X695C/proprietary/lib64/vendor.mediatek.hardware.pq@2.2.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.mediatek.hardware.pq@2.2.so \
     vendor/infinix/X695C/proprietary/lib64/vendor.mediatek.hardware.pq@2.3.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.mediatek.hardware.pq@2.3.so \
-    vendor/infinix/X695C/proprietary/odm/etc/vintf/manifest_dsds.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds.xml \
-    vendor/infinix/X695C/proprietary/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_qsqs.xml \
-    vendor/infinix/X695C/proprietary/odm/etc/vintf/manifest_ss.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss.xml \
-    vendor/infinix/X695C/proprietary/odm/etc/vintf/manifest_tsts.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_tsts.xml \
     vendor/infinix/X695C/proprietary/system_ext/lib/vendor.mediatek.hardware.bluetooth.audio@2.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.mediatek.hardware.bluetooth.audio@2.1.so \
     vendor/infinix/X695C/proprietary/system_ext/lib/vendor.mediatek.hardware.mtkpower@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.mediatek.hardware.mtkpower@1.0.so \
     vendor/infinix/X695C/proprietary/system_ext/lib/vendor.mediatek.hardware.mtkpower@1.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.mediatek.hardware.mtkpower@1.1.so \
